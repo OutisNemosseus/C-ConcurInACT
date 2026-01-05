@@ -10,7 +10,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const TLPI_DIR = path.join(__dirname, '..', 'tlpi-dist');
+const TLPI_DIR = path.join(__dirname, '..', 'listings');
 const DOCS_DIR = path.join(__dirname, '..', 'docs');
 const INBOX_DIR = path.join(__dirname, '..', 'Inbox');
 
